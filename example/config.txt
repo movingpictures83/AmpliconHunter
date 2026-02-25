@@ -1,0 +1,2 @@
+Prefix plugins/AmpliconHunter/example/
+Plugin AmpliconHunter inputfile parameters.txt outputfile .
